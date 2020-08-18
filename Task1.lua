@@ -1,0 +1,2 @@
+-- 1. Napisać program, który wyznacza drugą co do wielkości (lub przedostatnią) liczbę w ciągu.
+-- Polecenie nie jest dla mnie jasne. Czy chodzi o ciąg arytmetyczny, geometryczny? Jaki wzór określa ten ciąg? Jaka jest jego granica? Bez tych informacji zadanie nie jest do wykonania.
